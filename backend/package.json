@@ -1,0 +1,8 @@
+{
+  "name": "student-backend",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.5.0",
+    "cors": "^2.8.5"
+  }
+}
